@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189525142332",
+    "firebase_url": "https://artlance-fd72e.firebaseio.com",
+    "project_id": "artlance-fd72e",
+    "storage_bucket": "artlance-fd72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189525142332:android:4f759fed733731a5880c39",
+        "android_client_info": {
+          "package_name": "com.unnatifinalyearproject.artlance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189525142332-co3gi78qaeg12cbcc7g6re6gqb5oj2u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unnatifinalyearproject.artlance",
+            "certificate_hash": "cba7b8eaf0e38761463bd96f65ddf60b2c4f7a05"
+          }
+        },
+        {
+          "client_id": "189525142332-1p50bu173jcia97mb14di6se8fs8g1tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZVfQdhkw_bqPokHQZ-G6sSC5O5t7T298"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189525142332-1p50bu173jcia97mb14di6se8fs8g1tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
